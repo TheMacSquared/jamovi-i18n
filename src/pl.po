@@ -2730,3 +2730,52 @@ msgstr "Powiększ"
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
 msgstr "Pomniejsz"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Conditions"
+msgstr "Warunki"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Add condition"
+msgstr "Dodaj warunek"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "variable…"
+msgstr "zmienna…"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "value"
+msgstr "wartość"
+
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "and / or"
+msgstr "and / or"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Remove condition part"
+msgstr "Usuń część warunku"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Remove condition"
+msgstr "Usuń warunek"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "e.g. \"other\""
+msgstr "np. \"inne\""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "e.g. \"high\""
+msgstr "np. \"wysokie\""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Values: numbers as is, text in quotes (added automatically), or a variable name. Within a row \"and\" binds tighter than \"or\"."
+msgstr "Wartości: liczby bez zmian, tekst w cudzysłowie (dodawany automatycznie) albo nazwa zmiennej. W obrębie wiersza \"and\" wiąże silniej niż \"or\"."
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "The current formula cannot be shown as conditions; editing here will replace it."
+msgstr "Bieżącej formuły nie da się pokazać jako warunków; edycja tutaj ją zastąpi."
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Conditions may reference other variables and be combined with and / or, e.g. > 60 and diabetes == 1. Pick variables from the fx list."
+msgstr "Warunki mogą odwoływać się do innych zmiennych i łączyć się przez and / or, np. > 60 and diabetes == 1. Zmienne wybierzesz z listy fx."

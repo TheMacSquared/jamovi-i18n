@@ -2690,3 +2690,52 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.ts:98
 msgid "Zoom out"
 msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Conditions"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Add condition"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "variable…"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "value"
+msgstr ""
+
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "and / or"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Remove condition part"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Remove condition"
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "e.g. \"other\""
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "e.g. \"high\""
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Values: numbers as is, text in quotes (added automatically), or a variable name. Within a row \"and\" binds tighter than \"or\"."
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "The current formula cannot be shown as conditions; editing here will replace it."
+msgstr ""
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Conditions may reference other variables and be combined with and / or, e.g. > 60 and diabetes == 1. Pick variables from the fx list."
+msgstr ""
