@@ -276,6 +276,10 @@ msgstr "Adnotacja dla tabeli {name}"
 msgid "ANOVA"
 msgstr "ANOVA"
 
+#: jamovi/client/main/ribbon/appmenu.js:93
+msgid "APA"
+msgstr "APA"
+
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
 #: jamovi/client/main/contextmenu/contextmenus.js:110
@@ -349,6 +353,10 @@ msgstr "Niebieskie"
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
 msgstr "Pogrubienie"
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "BrBG"
+msgstr "BrBG"
 
 #: jamovi/client/main/backstage.js:339
 msgid "Browse"
@@ -438,6 +446,10 @@ msgstr "Blok kodu"
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
 msgstr "Paleta kolorów"
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "Colour-blind safe"
+msgstr "Bezpieczna dla daltonistów"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -748,6 +760,10 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
 msgstr "Tryb programisty"
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "diverging"
+msgstr "Rozbieżne"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -1087,6 +1103,10 @@ msgstr "Odcienie zieleni"
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
 msgstr "Odcienie szarości"
+
+#: jamovi/client/main/ribbon/appmenu.js:93
+msgid "Grid"
+msgstr "Siatka"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1736,6 +1756,10 @@ msgstr "Slajd PowerPoint {ext}"
 msgid "Preferences"
 msgstr "Ustawienia"
 
+#: jamovi/client/main/ribbon/appmenu.js:93
+msgid "Presentation"
+msgstr "Prezentacja"
+
 #: jamovi/client/resultsview/annotation.js:79
 msgid "Press enter to edit"
 msgstr "Naciśnij Enter, aby edytować"
@@ -1766,6 +1790,10 @@ msgstr "Obiekt języka R {ext}"
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
 msgstr "Ranguje każdą wartość."
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "RdBu"
+msgstr "RdBu"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
@@ -2596,6 +2624,10 @@ msgstr "Przesyłanie nie powiodło się"
 msgid "Uploading"
 msgstr "Przesyłanie"
 
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "UPWr"
+msgstr "UPWr"
+
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
 msgstr "użyj"
@@ -2659,6 +2691,10 @@ msgstr "Widok zmiennych"
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
 msgstr "Wersja {v}"
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "Viridis"
+msgstr "Viridis"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
