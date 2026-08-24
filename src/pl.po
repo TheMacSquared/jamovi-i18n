@@ -447,10 +447,6 @@ msgstr "Blok kodu"
 msgid "Color palette"
 msgstr "Paleta kolorów"
 
-#: jamovi/client/main/ribbon/appmenu.js:100
-msgid "Colour-blind safe"
-msgstr "Bezpieczna dla daltonistów"
-
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
@@ -1104,6 +1100,10 @@ msgstr "Odcienie zieleni"
 msgid "Greys"
 msgstr "Odcienie szarości"
 
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "Greyscale"
+msgstr "Skala szarości"
+
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Grid"
 msgstr "Siatka"
@@ -1380,6 +1380,14 @@ msgstr "Pliki JASP {ext}"
 msgid "JSON files {ext}"
 msgstr "Pliki JSON {ext}"
 
+#: jamovi/client/main/ribbon/appmenu.js:93
+msgid "jUPWR — dark"
+msgstr "jUPWR — ciemny"
+
+#: jamovi/client/main/ribbon/appmenu.js:93
+msgid "jUPWR — light"
+msgstr "jUPWR — jasny"
+
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
 msgstr "Wyjustuj"
@@ -1598,6 +1606,10 @@ msgstr "Ok"
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "Ok"
+
+#: jamovi/client/main/ribbon/appmenu.js:100
+msgid "Okabe-Ito"
+msgstr "Okabe-Ito"
 
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
@@ -2623,10 +2635,6 @@ msgstr "Przesyłanie nie powiodło się"
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
 msgstr "Przesyłanie"
-
-#: jamovi/client/main/ribbon/appmenu.js:100
-msgid "UPWr"
-msgstr "UPWr"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
