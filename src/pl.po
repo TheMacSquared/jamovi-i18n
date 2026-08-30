@@ -1892,6 +1892,10 @@ msgstr "Wyniki"
 msgid "Retain unused levels in analyses"
 msgstr "Zachowaj w analizach niewykorzystane poziomy"
 
+#: jamovi/client/main/vareditor/computedvarwidget.ts
+msgid "Retain unused levels"
+msgstr "Zachowaj nieużywane poziomy"
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
 msgstr "Zwraca przekształcenie Boxa-Coxa."
@@ -2801,6 +2805,14 @@ msgid "Remove condition part"
 msgstr "Usuń część warunku"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "bracket"
+msgstr "nawias"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Remove bracket (keep its parts)"
+msgstr "Usuń nawias (zachowaj jego części)"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "Remove rule"
 msgstr "Usuń regułę"
 
@@ -2813,8 +2825,8 @@ msgid "e.g. \"high\""
 msgstr "np. \"wysokie\""
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
-msgid "Values: numbers as is, text in quotes (added automatically), or a variable name. Within a row \"and\" binds tighter than \"or\"."
-msgstr "Wartości: liczby bez zmian, tekst w cudzysłowie (dodawany automatycznie) albo nazwa zmiennej. W obrębie wiersza \"and\" wiąże silniej niż \"or\"."
+msgid "Values: numbers as is, text in quotes (added automatically), or a variable name. Within a row \"and\" binds tighter than \"or\"; use a bracket to group parts and change that order."
+msgstr "Wartości: liczby bez zmian, tekst w cudzysłowie (dodawany automatycznie) albo nazwa zmiennej. W obrębie wiersza \"and\" wiąże silniej niż \"or\"; nawias pozwala zgrupować części i zmienić tę kolejność."
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "The current formula cannot be shown as conditions; editing here will replace it."
