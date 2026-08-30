@@ -2780,8 +2780,8 @@ msgid "Conditions"
 msgstr "Warunki"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
-msgid "Add condition"
-msgstr "Dodaj warunek"
+msgid "Add rule"
+msgstr "Dodaj regułę"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "variable…"
@@ -2793,16 +2793,16 @@ msgstr "wartość"
 
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
-msgid "and / or"
-msgstr "and / or"
+msgid "and / or condition"
+msgstr "warunek and / or"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "Remove condition part"
 msgstr "Usuń część warunku"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
-msgid "Remove condition"
-msgstr "Usuń warunek"
+msgid "Remove rule"
+msgstr "Usuń regułę"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "e.g. \"other\""
