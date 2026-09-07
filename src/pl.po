@@ -1748,6 +1748,10 @@ msgstr "Użyj klawiszy ctrl-v, aby wkleić dane do arkusza."
 msgid "Plot"
 msgstr "Wykres"
 
+#: jamovi/client/main/ribbon/appmenu.js
+msgid "Font size"
+msgstr "Rozmiar czcionki wyników"
+
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
 msgstr "Schemat kolorów wykresów"
