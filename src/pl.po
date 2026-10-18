@@ -2841,5 +2841,13 @@ msgid "Invalid decimal symbol"
 msgstr "Nieprawidłowy symbol dziesiętny"
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Invalid quotation marks"
+msgstr "Nieprawidłowy cudzysłów"
+
+#: jamovi/client/main/vareditor/recodedvarwidget.ts
+msgid "The selected variables have different rules; edit them one at a time."
+msgstr "Zaznaczone zmienne mają różne reguły; edytuj je pojedynczo."
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "Conditions may reference other variables and be combined with and / or, e.g. > 60 and diabetes == 1. Pick variables from the fx list."
 msgstr "Warunki mogą odwoływać się do innych zmiennych i łączyć się przez and / or, np. > 60 and diabetes == 1. Zmienne wybierzesz z listy fx."
