@@ -2837,5 +2837,9 @@ msgid "The current formula cannot be shown as conditions; editing here will repl
 msgstr "Bieżącej formuły nie da się pokazać jako warunków; edycja tutaj ją zastąpi."
 
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "The decimal symbol in the settings is \"{symbol}\"; write numbers like {example}"
+msgstr "Symbol dziesiętny w ustawieniach to „{symbol}”; wpisuj liczby jak {example}"
+
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "Conditions may reference other variables and be combined with and / or, e.g. > 60 and diabetes == 1. Pick variables from the fx list."
 msgstr "Warunki mogą odwoływać się do innych zmiennych i łączyć się przez and / or, np. > 60 and diabetes == 1. Zmienne wybierzesz z listy fx."
