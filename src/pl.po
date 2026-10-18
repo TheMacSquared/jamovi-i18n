@@ -2844,6 +2844,10 @@ msgstr "Nieprawidłowy symbol dziesiętny"
 msgid "Invalid quotation marks"
 msgstr "Nieprawidłowy cudzysłów"
 
+#: jamovi/client/main/vareditor/conditionsbuilder.ts
+msgid "Use a separate condition with or / and"
+msgstr "Użyj osobnego warunku z or / and"
+
 #: jamovi/client/main/vareditor/recodedvarwidget.ts
 msgid "The selected variables have different rules; edit them one at a time."
 msgstr "Zaznaczone zmienne mają różne reguły; edytuj je pojedynczo."
