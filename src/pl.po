@@ -2286,7 +2286,7 @@ msgstr "Tabela"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr ""
+msgstr "Zamienia liczbę dni od 1 stycznia 1970 roku na datę w podanym formacie."
 "Pobiera liczbę reprezentującą liczbę dni od 1 stycznia 1970 r. i ustawia "
 "format na datę."
 
@@ -2855,3 +2855,51 @@ msgstr "Zaznaczone zmienne mają różne reguły; edytuj je pojedynczo."
 #: jamovi/client/main/vareditor/conditionsbuilder.ts
 msgid "Conditions may reference other variables and be combined with and / or, e.g. > 60 and diabetes == 1. Pick variables from the fx list."
 msgstr "Warunki mogą odwoływać się do innych zmiennych i łączyć się przez and / or, np. > 60 and diabetes == 1. Zmienne wybierzesz z listy fx."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The time elapsed from start to end, in unit: 's', 'min', 'h' or 'd'. Accepts times (8:15), dates (22.10.2026, 2026-10-22) or both (2026-10-22 08:15). With times only, an end earlier than the start is on the next day."
+msgstr "Czas, który upłynął od początku do końca, w jednostce unit: 's', 'min', 'h' albo 'd'. Przyjmuje godziny (8:15), daty (22.10.2026, 2026-10-22) albo jedno i drugie (2026-10-22 08:15). Przy samych godzinach koniec wcześniejszy niż początek oznacza następny dzień."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "Converts a time (8:15, 08:15:30) to the time since midnight, in unit: 's', 'min', 'h' or 'd'."
+msgstr "Zamienia godzinę (8:15, 08:15:30) na czas od północy w jednostce unit: 's', 'min', 'h' albo 'd'."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "Converts a number of units (by default minutes) to a time as text, e.g. 495 to 08:15."
+msgstr "Zamienia liczbę jednostek (domyślnie minut) na godzinę w postaci tekstu, np. 495 na 08:15."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "Converts a date (22.10.2026, 2026-10-22) to the number of days since the 1st of January, 1970. The format (e.g. '%d/%m/%Y') is only needed for other notations."
+msgstr "Zamienia datę (22.10.2026, 2026-10-22) na liczbę dni od 1 stycznia 1970 roku. Format (np. '%d/%m/%Y') jest potrzebny tylko przy innych zapisach."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "Converts a date with a time (2026-10-22 08:15) to the number of days since the 1st of January, 1970, with the time as a fraction of a day."
+msgstr "Zamienia datę z godziną (2026-10-22 08:15) na liczbę dni od 1 stycznia 1970 roku, z godziną jako ułamkiem dnia."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The year of a date."
+msgstr "Rok z daty."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The month of a date (1-12)."
+msgstr "Miesiąc z daty (1–12)."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The day of the month of a date."
+msgstr "Dzień miesiąca z daty."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The day of the week of a date: 1 = Monday, 7 = Sunday."
+msgstr "Dzień tygodnia z daty: 1 = poniedziałek, 7 = niedziela."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The hour of a time or of a date with a time."
+msgstr "Godzina z godziny lub z daty z godziną."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "The minute of a time or of a date with a time."
+msgstr "Minuta z godziny lub z daty z godziną."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js
+msgid "Date / Time"
+msgstr "Data / czas"
