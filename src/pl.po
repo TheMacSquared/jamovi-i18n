@@ -3184,3 +3184,15 @@ msgstr "Co {n} min"
 #: jamovi/client/main/ribbon/appmenu.ts
 msgid "Disabled"
 msgstr "Wyłączone"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Interface"
+msgstr "Wygląd interfejsu"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Light (A)"
+msgstr "Lekki (A)"
