@@ -3168,3 +3168,19 @@ msgstr "Usunięte zostaną również uwagi i kolumny utworzone przez analizy."
 #: jamovi/client/main/utils/confirmdeleteall.ts
 msgid "Delete all"
 msgstr "Usuń wszystko"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Recovery copies"
+msgstr "Kopie odzyskiwania"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Every minute"
+msgstr "Co minutę"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Every {n} minutes"
+msgstr "Co {n} min"
+
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Disabled"
+msgstr "Wyłączone"
