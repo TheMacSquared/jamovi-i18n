@@ -3152,3 +3152,19 @@ msgstr "Data / czas"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Recovery"
 msgstr "Odzyskiwanie"
+
+#: jamovi/client/main/utils/confirmdeleteall.ts
+msgid "Delete all analyses and results?"
+msgstr "Usunąć wszystkie analizy i wyniki?"
+
+#: jamovi/client/main/utils/confirmdeleteall.ts
+msgid "Warning: deleting all analyses and results cannot be undone."
+msgstr "Uwaga: usunięcie wszystkich analiz i wyników jest nieodwracalne."
+
+#: jamovi/client/main/utils/confirmdeleteall.ts
+msgid "Notes and output columns created by analyses will also be deleted."
+msgstr "Usunięte zostaną również uwagi i kolumny utworzone przez analizy."
+
+#: jamovi/client/main/utils/confirmdeleteall.ts
+msgid "Delete all"
+msgstr "Usuń wszystko"
