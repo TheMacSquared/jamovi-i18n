@@ -3148,3 +3148,7 @@ msgstr "Minuta z godziny lub z daty z godziną."
 #: jamovi/client/main/vareditor/formulatoolbar.js
 msgid "Date / Time"
 msgstr "Data / czas"
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Recovery"
+msgstr "Odzyskiwanie"
