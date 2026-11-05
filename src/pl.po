@@ -3196,3 +3196,36 @@ msgstr "Klasyczny"
 #: jamovi/client/main/ribbon/appmenu.ts
 msgid "Light (A)"
 msgstr "Lekki (A)"
+
+#: jamovi/client/resultsview/element.ts
+#: jamovi/client/resultsview/resize.ts
+msgid "Set size"
+msgstr "Ustaw rozmiar"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "Width"
+msgstr "Szerokość"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "Height"
+msgstr "Wysokość"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "Size unit"
+msgstr "Jednostka rozmiaru"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "in"
+msgstr "cal"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "cm"
+msgstr "cm"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "mm"
+msgstr "mm"
+
+#: jamovi/client/resultsview/resize.ts
+msgid "Apply"
+msgstr "Zastosuj"
