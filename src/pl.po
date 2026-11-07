@@ -3197,6 +3197,10 @@ msgstr "Klasyczny"
 msgid "Light (A)"
 msgstr "Lekki (A)"
 
+#: jamovi/client/main/ribbon/appmenu.ts
+msgid "Light, dimmed"
+msgstr "Lekki, przyciemniony"
+
 #: jamovi/client/resultsview/element.ts
 #: jamovi/client/resultsview/resize.ts
 msgid "Set size"
